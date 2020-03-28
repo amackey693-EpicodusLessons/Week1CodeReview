@@ -8,8 +8,11 @@
 
 _The purpose of this webpage is to display my own portfolio while attending Epicodus. I will update and remove items as my portfolio grows._
 
+_To view my current portfolio page please visit: https://amackey693.github.io/_
+
 ## Setup/Installation Requirements
 
+* _View this project project in gh-pages here: https://amackey693.github.io/Week1CodeReview/_
 * _Clone Repository from GitHub : https://github.com/amackey693/Week1CodeReview_
 * _Open Index.html in Virtual Studio Code (or your text editor of choice)_
 * _Create your own repository and push new changes to GitHub_
